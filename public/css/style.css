@@ -1,0 +1,111 @@
+
+.start_page_body{
+
+    background: url("../images/new_year10.jpg") no-repeat center center fixed;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+}
+
+.note_body
+{
+    background-image: url("../images/back.jpg");
+
+
+
+}
+
+.delete_form
+{
+    display: inline-block;
+}
+.button_styling
+{
+    margin: 10px;
+    background-color: #4CAF50;
+    font-size: 20px;
+    font-family: cursive;
+    display: inline-block;
+}
+
+.back_to_startpage_btn
+{
+    font-size: 30px;
+
+
+    font-family: cursive;
+
+    position: relative;
+    top: 30px;
+
+
+
+}
+.index_panel
+{
+    margin-top: 60px;
+    width: 1000px;
+    margin-left: 60px;
+
+}
+
+.table_style
+{
+
+    width: 900px;
+    margin-left: 40px;
+    table-layout: fixed
+    
+    
+}
+table td
+{
+             
+    word-break: break-word;
+    
+}
+.panel-heading
+{
+    font-size: 20px;
+    font-family: cursive;
+
+}
+td,th
+{
+    font-size: 19px;
+    font-family: cursive;
+
+
+
+}
+
+.form-control
+{
+    margin-bottom: 20px;
+}
+
+.form-group
+{
+    font-size: 30px;
+    font-family: cursive;
+
+}
+
+.start_page_button
+{
+    font-size: 50px;
+    background-color: #4CAF50;
+
+    font-family: JasmineUPC;
+    color: white;
+    position: relative;
+
+    top: 530px;
+    left: 570px;
+
+
+
+}
